@@ -1,2 +1,2 @@
 # MLP-in-Keras
-Used an MLP network in data for multiclass classification job on dataset with news headlines and their corresponding topics.(Topic Identification Task))
+Reuters datset of Keras used which has news headlines as input data and the topics as target variable,performed text cleaning,vectoriztion the trained a NN in Keras to perform multiclass classification(46 classes).Also displayed how to use Early Stopping callback of Keras as an efficient alternative to hit and trial method of epoch testing.
